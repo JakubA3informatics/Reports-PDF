@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   # s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.date              = %q{2017-10-12}
   
-  s.authors           = ["Jakub"]
-  s.email             = "lemiszewski@gmx.com"
-  s.summary           = "Simple pdf generator"
-  s.description       = "Focus more on generating pdf reports files from cdisc changes results. Let reports do it."
+  s.authors           = ["Jakub Lemiszewski"]
+  s.email             = "jl@a3informatics.com"
+  s.summary           = "PDF generator"
+  s.description       = "Focus more on generating pdf reports files from CDISC."
   
   s.require_paths     = ["lib"]
   s.files             = `git ls-files`.split("\n")
